@@ -6,10 +6,11 @@ TODO:
         -sorting
         -filtering
     -Edit screen
-    -Styling
 
 In procces:
-    -VehicleModel store
-
+    -List screen
+    -Styling
+    
 Finished:
     -VehicleMake store
+    -VehicleModel store

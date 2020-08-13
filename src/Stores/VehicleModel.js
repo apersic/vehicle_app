@@ -1,6 +1,6 @@
 import React from "react";
 import { useLocalStore } from "mobx-react";
-import Table from "../Components/Table";
+import VehicleModelTable from "../Components/VehicleModelTable";
 
 const StoreContext = React.createContext();
 
@@ -78,13 +78,13 @@ const StoreProvider = ({ children }) => {
 const VehicleModelList = () => {
     const store = React.useContext(StoreContext);
 
-    return(<Table tableData={store.models} />)
+    return(<VehicleModelTable tableData={store.models} />)
 }
 
 export default function VehicleModel() {
     return(
         <StoreProvider>
-            <div>
+            <div className="tableView">
                 <VehicleModelList />
             </div>
         </StoreProvider>

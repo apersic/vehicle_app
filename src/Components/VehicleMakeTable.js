@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Table(props) {
+export default function VehicleMakeTable(props) {
   const itemsList = props.tableData;
 
   return (
