@@ -5,12 +5,12 @@ TODO:\
 \
 In procces:\
     -List screen\
-        -sorting\
+        &nbsp;&nbsp;&nbsp;-sorting\
     -Styling\
     \
 Finished:\
     -VehicleMake store\
     -VehicleModel store\
     -List screen\
-        -paging\
-        -filtering
+        &nbsp;&nbsp;&nbsp;-paging\
+        &nbsp;&nbsp;&nbsp;-filtering
