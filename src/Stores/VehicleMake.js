@@ -57,6 +57,11 @@ const StoreProvider = ({ children }) => {
         name: "Dr. Ing. h. c. F. Porsche AG",
         abrv: "Porche",
       },
+      {
+        id: 11,
+        name: "Škoda Auto",
+        abrv: "Škoda",
+      },
     ],
   }));
 

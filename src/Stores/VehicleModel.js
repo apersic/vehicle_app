@@ -67,6 +67,18 @@ const StoreProvider = ({ children }) => {
         name: "Camaro",
         abrv: "Chevy",
       },
+      {
+        id: 11,
+        makeId: 9,
+        name: "Equinox",
+        abrv: "Chevy",
+      },
+      {
+        id: 12,
+        makeId: 9,
+        name: "Corvette Stingray",
+        abrv: "Chevy",
+      },
     ],
   }));
 
