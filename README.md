@@ -5,7 +5,7 @@ TODO:\
 \
 In procces:\
     -List screen\
-        -paging\
+        -sorting\
     -Styling\
     \
 Finished:\
@@ -13,4 +13,4 @@ Finished:\
     -VehicleModel store\
     -List screen\
         -paging\
-        -filtering\
+        -filtering
